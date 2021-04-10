@@ -1,4 +1,3 @@
 # DPLAssignment
 
-## Credit Card Fraud Detection Completed
-## Ionosphere Assignment Completed
+## [Deep Learning Assignment](https://github.com/piaic-official/AI-Q2-learning-resources/tree/master/DLAssignments)
